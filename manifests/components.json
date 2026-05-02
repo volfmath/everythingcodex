@@ -1,0 +1,49 @@
+{
+  "profiles": {
+    "minimal": [
+      "AGENTS.md",
+      "AGENTS.snippet.md",
+      "rules/common.md",
+      "rules/typescript.md",
+      "rules/python.md",
+      ".codex/README.md"
+    ],
+    "core": [
+      "AGENTS.md",
+      "AGENTS.snippet.md",
+      ".codex/README.md",
+      "agents/planner.md",
+      "agents/reviewer.md",
+      "agents/debugger.md",
+      "agents/architect.md",
+      "agents/test-writer.md",
+      "skills/repo-onboarding/SKILL.md",
+      "skills/tdd-workflow/SKILL.md",
+      "skills/security-review/SKILL.md",
+      "skills/handoff-checklist/SKILL.md",
+      "rules/common.md",
+      "rules/typescript.md",
+      "rules/python.md"
+    ],
+    "full": [
+      "AGENTS.md",
+      "AGENTS.snippet.md",
+      ".codex/README.md",
+      "agents/planner.md",
+      "agents/reviewer.md",
+      "agents/debugger.md",
+      "agents/architect.md",
+      "agents/test-writer.md",
+      "skills/repo-onboarding/SKILL.md",
+      "skills/tdd-workflow/SKILL.md",
+      "skills/security-review/SKILL.md",
+      "skills/handoff-checklist/SKILL.md",
+      "commands/plan.md",
+      "commands/review.md",
+      "hooks/preflight-checklist.md",
+      "rules/common.md",
+      "rules/typescript.md",
+      "rules/python.md"
+    ]
+  }
+}

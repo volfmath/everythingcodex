@@ -1,0 +1,19 @@
+{
+  "name": "everything-codex",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A Codex-native starter kit with agents, skills, rules, commands, and install helpers.",
+  "type": "module",
+  "bin": {
+    "ecodex": "scripts/ecodex.js"
+  },
+  "scripts": {
+    "list": "node scripts/ecodex.js list",
+    "doctor": "node scripts/ecodex.js doctor",
+    "install:preview": "node scripts/ecodex.js install . --profile minimal",
+    "install:shell-check": "sh -n install.sh"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
