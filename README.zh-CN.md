@@ -2,6 +2,8 @@
 
 `everything-codex` 是一个面向 Codex 的启动套件。它参考了大型 agent/harness 仓库的组织方式，但刻意做得更轻、更容易改。
 
+[中文安装说明](./docs/INSTALL.zh-CN.md)
+
 它提供的核心内容：
 
 - 一份为 Codex 调整过的根目录 `AGENTS.md`
@@ -52,6 +54,8 @@ node scripts/ecodex.js install /path/to/project --profile core
 ```bash
 ./install.sh /path/to/project core
 ```
+
+详细安装说明见：`docs/INSTALL.zh-CN.md`
 
 ## 安装档位
 

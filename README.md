@@ -55,6 +55,8 @@ If Node.js is not available, use the shell installer:
 ./install.sh /path/to/project core
 ```
 
+Detailed install guide: `docs/INSTALL.md`
+
 ## Profiles
 
 - `minimal`: docs + rules + AGENTS snippet

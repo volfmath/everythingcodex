@@ -1,5 +1,7 @@
 # Install Guide
 
+中文版本：`docs/INSTALL.zh-CN.md`
+
 ## Shell install
 
 ```bash
